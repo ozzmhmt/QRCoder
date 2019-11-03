@@ -1,0 +1,16 @@
+PODS:
+  - QRCoder (1.0.0)
+
+DEPENDENCIES:
+  - QRCoder (from `../`)
+
+EXTERNAL SOURCES:
+  QRCoder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QRCoder: c137393acc7f9f7b5f35feccd61141943c748ee7
+
+PODFILE CHECKSUM: de02f1dd20c333277b20cc7d6dd3a5b49b746015
+
+COCOAPODS: 1.6.0.beta.1
