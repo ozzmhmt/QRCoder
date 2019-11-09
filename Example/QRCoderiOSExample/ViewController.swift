@@ -11,7 +11,7 @@ import QRCoder
 class ViewController: UIViewController {
 
     @IBOutlet weak var imageView: UIImageView!
-    
+    //viewLoad
     override func viewDidLoad() {
         super.viewDidLoad()
         let generator = QRCodeGenerator()
