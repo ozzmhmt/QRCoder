@@ -143,5 +143,5 @@ open class QRCodeGenerator : NSObject {
         return newImage
     }
     #endif
-    
+   
 }
