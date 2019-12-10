@@ -205,5 +205,5 @@ open class QRCodeScannerViewController: UIViewController, AVCaptureMetadataOutpu
             }
         }
     }
-    
+   
 }
