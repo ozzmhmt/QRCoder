@@ -12,7 +12,7 @@ However, scaling the QR code to the desired size without blurring the image does
 
 Simply use an instance of QRCodeGenerator to create an image of type QRImage. This is a type alias for UIImage under iOS and NSImage under OS X.
 
-<img src="https://raw.githubusercontent.com/sbhklr/QRCoder/master/screenshots/ios_code.png" width="250" />
+<img src="https://raw.githubusercontent.com/ozzmhmt/QRCoder/master/screenshots/ios_code.png" width="250" />
 
 ```swift
 let generator = QRCodeGenerator()
@@ -21,7 +21,7 @@ generator.correctionLevel = .H
 let image:QRImage = generator.createImage("Hello world!",size: CGSizeMake(200,200))
 ```
 
-<img src="https://raw.githubusercontent.com/sbhklr/QRCoder/master/screenshots/osx_code.png" width="300" />
+<img src="https://raw.githubusercontent.com/ozzmhmt/QRCoder/master/screenshots/osx_code.png" width="300" />
 
 ```swift
 let generator = QRCodeGenerator()
@@ -42,7 +42,7 @@ let generator = QRCodeGenerator(correctionLevel: .H)
 
 ## Usage: Scanner (iOS)
 
-<img src="https://raw.githubusercontent.com/sbhklr/QRCoder/master/screenshots/ios_scanner.png" width="250" />
+<img src="https://raw.githubusercontent.com/ozzmhmt/QRCoder/master/screenshots/ios_scanner.png" width="250" />
 
 ```swift
 class ScannerViewController : QRCodeScannerViewController {
@@ -69,9 +69,6 @@ class ScannerViewController : QRCodeScannerViewController {
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
-
-Requires OS X 10.9 / iOS 8.
 
 ## Installation
 
