@@ -1,6 +1,6 @@
 # QRCoder
 
-[![CI Status](http://img.shields.io/travis/sbhklr/QRCoder.svg?style=flat)](https://travis-ci.org/sbhklr/QRCoder)
+[![CI Status](http://img.shields.io/travis/ozzmhmt/QRCoder.svg?style=flat)](https://travis-ci.org/ozzmhmt/QRCoder)
 [![Version](https://img.shields.io/cocoapods/v/QRCoder.svg?style=flat)](http://cocoapods.org/pods/QRCoder)
 [![License](https://img.shields.io/cocoapods/l/QRCoder.svg?style=flat)](http://cocoapods.org/pods/QRCoder)
 [![Platform](https://img.shields.io/cocoapods/p/QRCoder.svg?style=flat)](http://cocoapods.org/pods/QRCoder)
